@@ -17,7 +17,7 @@ The admin log in will be able to post announcements to the Student landing page.
 -Tracking system to track student progress.
 -Upload system so students can upload completed assignments.
 ### Technologies
-We will be using the MEAN stack. MySQL, Express.js, AngularJS, and Node.js)
+We will be using the MEAN stack. (MySQL, Express.js, AngularJS, and Node.js)
 ### What I'll Have to Learn
 We will need to become more familiar with our entire stack. Some things we have identified as potential problems are authentication with MEAN stack, YouTube embedding/API, creating a forum type system for discussion amongst students (Blackboard type), creating 2 types of accounts with different permissions, upload system for students to turn in assignments.
 ### Project Tracker
